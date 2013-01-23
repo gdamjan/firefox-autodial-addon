@@ -1,0 +1,6 @@
+body {
+    background-color: Background;
+}
+a:link, a:visited {
+    color: blue;
+}

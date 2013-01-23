@@ -1,0 +1,17 @@
+{
+   "fullName" : "AutoDial2",
+   "version" : "1.0",
+   "name" : "autodial2",
+   "dependencies" : [
+      "api-utils",
+      "addon-kit"
+   ],
+   "author" : "gdamjan@gmail.com",
+   "description" : "",
+   "license" : "",
+   "main" : "main",
+   "contributors" : [],
+   "url" : "",
+   "lib" : "lib",
+   "id" : "jid0-Lo5VNBPXMBCvfnqo2CAUPEg058I"
+}
